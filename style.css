@@ -24,8 +24,8 @@ html {
     background-color: rgba(95, 98, 226, 0.15);
     border-style: none;
     border-radius: 10px;
-    cursor: pointer;
     transition: 0.3s ease-in-out;
+    cursor: pointer;
 }
 
 .arrow__icon {
